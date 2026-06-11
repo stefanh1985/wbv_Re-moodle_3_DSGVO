@@ -1,9 +1,9 @@
 <!--
-author: Stefan Kern / Pädagogika Fachschule für Sozialpädagogik
+author: Stefan Hierholzer
 email:
 version: 1.0
 language: de
-narrator: German Female
+narrator: German Male
 
 comment: Selbstlernkurs DSGVO im schulischen Kontext – Datenschutz rechtssicher anwenden.
          Für Schulleitungen und Lehrkräfte an Fachschulen für Sozialwesen und anderen Berufsschulen
@@ -19,8 +19,7 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 # DSGVO im schulischen Kontext: Datenschutz rechtssicher anwenden
 
 > **Ein Selbstlernkurs für Schulleitungen und Lehrkräfte an Fachschulen für Sozialwesen und anderen Berufsschulen sowie Lehramtsstudierende und Referendar\*innen**
->
-> *Dieser Kurs ist Teil des Buchprojekts „Digitalisierte Erzieher\_innenausbildung" und ergänzt Kapitel 4.4 (Synthese: Der Weg zur nachhaltigen digitalen Organisationskultur) im Exkurs zur DSGVO und digitalen Souveränität.*
+
 
 ---
 
@@ -63,7 +62,7 @@ Nach Abschluss dieses Kurses sind Sie in der Lage:
 
 ```ascii
 Modul 0: Einstieg – Was weiß ich wirklich?           20 min
-Modul 1: DSGVO-Grundlagen kompakt                   45 min
+Modul 1: DSGVO-Grundlagen kompakt                    45 min
 Modul 2: Personenbezogene Daten in der Schule        45 min
 Modul 3: Rechtsgrundlagen & Einwilligung             50 min
 Modul 4: DSGVO im Unterrichtsalltag                  55 min
@@ -485,7 +484,7 @@ Bevor eine Lehrkraft ein digitales Tool im Unterricht einsetzt, müssen mehrere 
 │                                                         │
 │  ✓ Hat der Anbieter seinen Sitz in der EU / EWR?        │
 │  ✓ Liegt eine Datenschutzerklärung auf Deutsch vor?     │
-│  ✓ Wurde ein AVV (Auftragsverarbeitungsvertrag)          │
+│  ✓ Wurde ein AVV (Auftragsverarbeitungsvertrag)         │
 │    mit dem Anbieter geschlossen?                        │
 │  ✓ Werden keine Daten in Drittländer (USA) übertragen?  │
 │  ✓ Ist eine Registrierung mit Klarnamen nötig?          │
@@ -921,9 +920,3 @@ Senge, P. (1996). *Die fünfte Disziplin: Kunst und Praxis der lernenden Organis
 Thiede, D. (2025, 9. Mai). *KI in der Schule – zwischen Datenschutz (DSGVO) und KI-Verordnung (EU AI Act)*. Unterrichten Digital. https://unterrichten.digital/2025/05/09/ki-schule-datenschutz-dsgvo-ki-verordnung-eu-ai-act/
 
 ---
-
-> **Hinweis zu diesem Kurs:**
->
-> Dieser Selbstlernkurs wurde als ergänzendes Materialangebot zum Buchprojekt „Digitalisierte Erzieher\_innenausbildung" (Kern 2025) entwickelt. Er kann im LiaScript-Format in Moodle oder anderen offenen Lernplattformen eingesetzt werden. Alle verlinkten Ressourcen waren zum Zeitpunkt der Erstellung (Juni 2026) zugänglich. Dieser Kurs ersetzt keine Rechtsberatung – bei konkreten Datenschutzfragen ist immer die zuständige Datenschutzaufsichtsbehörde oder der\*die schulische Datenschutzbeauftragte zu konsultieren.
->
-> **Lizenz:** CC BY-SA 4.0 – Namensnennung, Weitergabe unter gleichen Bedingungen
