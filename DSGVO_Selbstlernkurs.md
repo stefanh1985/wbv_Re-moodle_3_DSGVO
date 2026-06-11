@@ -31,7 +31,6 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 | **Zeitaufwand** | ca. 4–5 Stunden (selbstgesteuert, modular) |
 | **Niveau** | DQR Stufe 6 (Bachelor-Äquivalenz) |
 | **Format** | Selbstlernkurs mit Reflexionsphasen, Fallbeispielen und Selbstüberprüfung |
-| **Einbettung** | Ergänzendes Material zu: Kern, S. (Hrsg.) (2025). *Digitalisierte Erzieher\_innenausbildung an der Pädagogika Fachschule Potsdam (.de)*. Kap. 4.4 |
 | **Rechtsgrundlage** | Verordnung (EU) 2016/679 (DSGVO); BDSG 2018; landesspezifische Schulgesetze |
 
 ---
